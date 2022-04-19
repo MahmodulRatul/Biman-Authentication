@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/MahmodulRatul/Biman-Authentication" target="_blank">BOOTSTRAP 4 LARAVEL FORTIFY AUTHENTICATION</a></h1>
+<h1 align="center"><a href="https://github.com/MahmodulRatul/Biman-Authentication" target="_blank">Authentication System For Biman-Bangladesh Airlines using Laravel 8 with fortify and Bootstrap 4.</a></h1>
 
 This is a simple auth starter setup for laravel 8 projects
 
