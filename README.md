@@ -7,9 +7,9 @@ This is a simple auth starter setup for laravel 8 projects
 -   [x] User Login
 -   [x] User Registration
 -   [x] Email Verification
--   [x] Forget Password
--   [x] Reset Password
--   [x] Change Password
--   [x] Update User Profile
+-   [ ] Forget Password
+-   [ ] Reset Password
+-   [ ] Change Password
+-   [ ] Update User Profile
 -   [ ] TwoFactor Authentication
 -   [ ] Browser Session Management
